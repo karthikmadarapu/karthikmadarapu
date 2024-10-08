@@ -12,7 +12,7 @@
 -  https://en.wikipedia.org/wiki/List_of_typographical_symbols_and_punctuation_marks
 -  https://www.google.com/search?q=google+maps&oq=goo&gs_lcrp=EgZjaHJvbWUqEggDEAAYQxiDARixAxiABBiKBTIOCAAQRRg5GEMYgAQYigUyGAgBEC4YQxiDARjHARixAxjRAxiABBiKBTISCAIQABhD
 -  https://www.youtube.com/
-[CLI commands](docs/cli.md)
+
 
 
 
@@ -32,3 +32,7 @@ Shortcuts I would like to start using:
 - Ctrl-A (select all)
 - Win-D (show desktop)
 - Super-Hyper-Meta-F (I don’t even have such keys, but it sounds impressive)
+
+
+
+[CLI commands](docs/cli.md)
