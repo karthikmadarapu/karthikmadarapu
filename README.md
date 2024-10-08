@@ -12,6 +12,7 @@
 -  https://en.wikipedia.org/wiki/List_of_typographical_symbols_and_punctuation_marks
 -  https://www.google.com/search?q=google+maps&oq=goo&gs_lcrp=EgZjaHJvbWUqEggDEAAYQxiDARixAxiABBiKBTIOCAAQRRg5GEMYgAQYigUyGAgBEC4YQxiDARjHARixAxjRAxiABBiKBTISCAIQABhD
 -  https://www.youtube.com/
+[CLI commands](docs/cli.md)
 
 
 
